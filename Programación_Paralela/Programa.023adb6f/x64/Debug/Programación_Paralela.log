@@ -1,0 +1,5 @@
+﻿  Programación_Paralela.cpp
+C:\Users\Cetecom\Desktop\Computo en lna nube\proyectosOMP\PP\Programación_Paralela\Programación_Paralela.cpp(21,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Cetecom\Desktop\Computo en lna nube\proyectosOMP\PP\Programación_Paralela\Programación_Paralela.cpp(22,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Cetecom\Desktop\Computo en lna nube\proyectosOMP\PP\Programación_Paralela\Programación_Paralela.cpp(17,9): warning C4101: 'i': variable local sin referencia
+  Programación_Paralela.vcxproj -> C:\Users\Cetecom\Desktop\Computo en lna nube\proyectosOMP\PP\Programación_Paralela\x64\Debug\Programación_Paralela.exe
